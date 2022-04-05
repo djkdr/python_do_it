@@ -7,6 +7,7 @@ def is_odd(number):
 
 is_odd(3)
 
+#####################################
 
 def avg_numbers(*args):
     result = 0
@@ -20,6 +21,7 @@ avg_numbers(1, 2)
 
 avg_numbers(1, 2, 3, 4, 5)
 
+#####################################
 
 input1 = input("첫번째 숫자를 입력하세요:")
 input2 = input("두번째 숫자를 입력하세요:")
